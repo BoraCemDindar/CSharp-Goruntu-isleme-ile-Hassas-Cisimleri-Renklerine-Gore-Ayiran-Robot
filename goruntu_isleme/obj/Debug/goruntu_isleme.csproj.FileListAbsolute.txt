@@ -1,0 +1,117 @@
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.exe.config
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.exe
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.pdb
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.dll
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Imaging.dll
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Video.dll
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Vision.dll
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Math.dll
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.xml
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Imaging.xml
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Video.xml
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Vision.xml
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Math.xml
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.Form1.resources
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.Properties.Resources.resources
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.exe
+C:\Users\ASUS\Desktop\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.pdb
+C:\Users\BCDin\Desktop\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.exe.config
+C:\Users\BCDin\Desktop\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.exe
+C:\Users\BCDin\Desktop\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.pdb
+C:\Users\BCDin\Desktop\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Math.dll
+C:\Users\BCDin\Desktop\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.xml
+C:\Users\BCDin\Desktop\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Imaging.xml
+C:\Users\BCDin\Desktop\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Video.xml
+C:\Users\BCDin\Desktop\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\BCDin\Desktop\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Vision.xml
+C:\Users\BCDin\Desktop\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Math.xml
+C:\Users\BCDin\Desktop\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.csprojResolveAssemblyReference.cache
+C:\Users\BCDin\Desktop\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.Form1.resources
+C:\Users\BCDin\Desktop\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.Properties.Resources.resources
+C:\Users\BCDin\Desktop\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.csproj.GenerateResource.Cache
+C:\Users\BCDin\Desktop\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.exe
+C:\Users\BCDin\Desktop\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.pdb
+C:\Users\ASUS\Desktop\çöp\Yeni-klasör\Yeni klasör\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.exe.config
+C:\Users\ASUS\Desktop\çöp\Yeni-klasör\Yeni klasör\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.exe
+C:\Users\ASUS\Desktop\çöp\Yeni-klasör\Yeni klasör\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.pdb
+C:\Users\ASUS\Desktop\çöp\Yeni-klasör\Yeni klasör\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.exe
+C:\Users\ASUS\Desktop\çöp\Yeni-klasör\Yeni klasör\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.pdb
+C:\Users\ASUS\Desktop\çöp\Yeni-klasör\Yeni klasör\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Math.dll
+C:\Users\ASUS\Desktop\çöp\Yeni-klasör\Yeni klasör\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.xml
+C:\Users\ASUS\Desktop\çöp\Yeni-klasör\Yeni klasör\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Imaging.xml
+C:\Users\ASUS\Desktop\çöp\Yeni-klasör\Yeni klasör\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Video.xml
+C:\Users\ASUS\Desktop\çöp\Yeni-klasör\Yeni klasör\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ASUS\Desktop\çöp\Yeni-klasör\Yeni klasör\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Vision.xml
+C:\Users\ASUS\Desktop\çöp\Yeni-klasör\Yeni klasör\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Math.xml
+C:\Users\ASUS\Desktop\çöp\Yeni-klasör\Yeni klasör\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\çöp\Yeni-klasör\Yeni klasör\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.Form1.resources
+C:\Users\ASUS\Desktop\çöp\Yeni-klasör\Yeni klasör\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.Properties.Resources.resources
+C:\Users\ASUS\Desktop\çöp\Yeni-klasör\Yeni klasör\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\çöp\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.exe.config
+C:\Users\ASUS\Desktop\çöp\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.exe
+C:\Users\ASUS\Desktop\çöp\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.pdb
+C:\Users\ASUS\Desktop\çöp\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.exe
+C:\Users\ASUS\Desktop\çöp\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.pdb
+C:\Users\ASUS\Desktop\çöp\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Math.dll
+C:\Users\ASUS\Desktop\çöp\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.xml
+C:\Users\ASUS\Desktop\çöp\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Imaging.xml
+C:\Users\ASUS\Desktop\çöp\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Video.xml
+C:\Users\ASUS\Desktop\çöp\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ASUS\Desktop\çöp\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Vision.xml
+C:\Users\ASUS\Desktop\çöp\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Math.xml
+C:\Users\ASUS\Desktop\çöp\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\çöp\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.Form1.resources
+C:\Users\ASUS\Desktop\çöp\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.Properties.Resources.resources
+C:\Users\ASUS\Desktop\çöp\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.csproj.GenerateResource.Cache
+C:\Users\BCDin\Desktop\RAMPSKONROL\BORA\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.exe.config
+C:\Users\BCDin\Desktop\RAMPSKONROL\BORA\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.exe
+C:\Users\BCDin\Desktop\RAMPSKONROL\BORA\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.pdb
+C:\Users\BCDin\Desktop\RAMPSKONROL\BORA\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Math.dll
+C:\Users\BCDin\Desktop\RAMPSKONROL\BORA\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.xml
+C:\Users\BCDin\Desktop\RAMPSKONROL\BORA\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Imaging.xml
+C:\Users\BCDin\Desktop\RAMPSKONROL\BORA\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Video.xml
+C:\Users\BCDin\Desktop\RAMPSKONROL\BORA\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\BCDin\Desktop\RAMPSKONROL\BORA\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Vision.xml
+C:\Users\BCDin\Desktop\RAMPSKONROL\BORA\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Math.xml
+C:\Users\BCDin\Desktop\RAMPSKONROL\BORA\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.csprojResolveAssemblyReference.cache
+C:\Users\BCDin\Desktop\RAMPSKONROL\BORA\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.Form1.resources
+C:\Users\BCDin\Desktop\RAMPSKONROL\BORA\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.Properties.Resources.resources
+C:\Users\BCDin\Desktop\RAMPSKONROL\BORA\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.csproj.GenerateResource.Cache
+C:\Users\BCDin\Desktop\RAMPSKONROL\BORA\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.exe
+C:\Users\BCDin\Desktop\RAMPSKONROL\BORA\BORA\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.pdb
+C:\Users\BCDin\Desktop\TEST2\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.exe.config
+C:\Users\BCDin\Desktop\TEST2\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.exe
+C:\Users\BCDin\Desktop\TEST2\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.pdb
+C:\Users\BCDin\Desktop\TEST2\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Math.dll
+C:\Users\BCDin\Desktop\TEST2\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.xml
+C:\Users\BCDin\Desktop\TEST2\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Imaging.xml
+C:\Users\BCDin\Desktop\TEST2\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Video.xml
+C:\Users\BCDin\Desktop\TEST2\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\BCDin\Desktop\TEST2\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Vision.xml
+C:\Users\BCDin\Desktop\TEST2\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Math.xml
+C:\Users\BCDin\Desktop\TEST2\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.csprojResolveAssemblyReference.cache
+C:\Users\BCDin\Desktop\TEST2\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.Form1.resources
+C:\Users\BCDin\Desktop\TEST2\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.Properties.Resources.resources
+C:\Users\BCDin\Desktop\TEST2\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.csproj.GenerateResource.Cache
+C:\Users\BCDin\Desktop\TEST2\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.exe
+C:\Users\BCDin\Desktop\TEST2\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.pdb
+D:\2017 MASAÜSTÜ\TEST2222\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.exe.config
+D:\2017 MASAÜSTÜ\TEST2222\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.exe
+D:\2017 MASAÜSTÜ\TEST2222\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.pdb
+D:\2017 MASAÜSTÜ\TEST2222\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.exe
+D:\2017 MASAÜSTÜ\TEST2222\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.pdb
+D:\2017 MASAÜSTÜ\TEST2222\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Math.dll
+D:\2017 MASAÜSTÜ\TEST2222\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.xml
+D:\2017 MASAÜSTÜ\TEST2222\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Imaging.xml
+D:\2017 MASAÜSTÜ\TEST2222\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Video.xml
+D:\2017 MASAÜSTÜ\TEST2222\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Video.DirectShow.xml
+D:\2017 MASAÜSTÜ\TEST2222\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Vision.xml
+D:\2017 MASAÜSTÜ\TEST2222\goruntu_isleme\goruntu_isleme\goruntu_isleme\bin\Debug\AForge.Math.xml
+D:\2017 MASAÜSTÜ\TEST2222\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.csprojResolveAssemblyReference.cache
+D:\2017 MASAÜSTÜ\TEST2222\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.Form1.resources
+D:\2017 MASAÜSTÜ\TEST2222\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.Properties.Resources.resources
+D:\2017 MASAÜSTÜ\TEST2222\goruntu_isleme\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.csproj.GenerateResource.Cache
